@@ -1,1 +1,1 @@
-FROM raychaser/logspout:latest-stats
+FROM gliderlabs/logspout:v3.2.3
